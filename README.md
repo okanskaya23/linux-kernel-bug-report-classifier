@@ -1,5 +1,5 @@
 # 48000-Project
-
+[LinuxKernelProjectBugReportsReport.pdf](https://github.com/okanskaya23/linux-kernel-bug-report-classifier/files/9672483/LinuxKernelProjectBugReportsReport.pdf)
 LINUX KERNEL PROJECT BUG REPORT PRODUCT AND COMPONENT CLASSIFIER
 
 Install:
@@ -28,4 +28,5 @@ Run all the cells in the notebook
 (use /latestCleanData/cleanedData.csv as the dataset)
 
 Use the function call in the last cell to give a new bug report summary
+
 
